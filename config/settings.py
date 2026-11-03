@@ -1,0 +1,3 @@
+APP_NAME = "PHANTOM"
+VERSION = "v1"
+
